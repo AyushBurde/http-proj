@@ -15,7 +15,7 @@ Delete students easily
 
 Simple and responsive UI using TailwindCSS
 
-🛠 Tech Stack
+ Tech Stack
 
 Frontend: React + TailwindCSS
 
